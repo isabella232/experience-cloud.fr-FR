@@ -2,7 +2,7 @@
 title: Documentation d’Adobe Experience Cloud
 description: Cette page comprend une liste complète de tous les guides et didacticiels à l’intention des utilisateurs et de la documentation d’Adobe Experience Cloud.
 translation-type: tm+mt
-source-git-commit: 9f8c85d9589d67ad7e0e7adf627a8feca7beba68
+source-git-commit: 0ead691624a9a9e2e4f42333ac3ed5bb9f11ef68
 
 ---
 
@@ -298,18 +298,21 @@ Cette page comprend une liste complète de tous les guides et didacticiels à l�
 <table>
 <thead>
   <tr>
-    <th>Guide de l’utilisateur</th>
-    <th></th>
+    <th>Guides de l’utilisateur</th>
+    <th>Tutoriels</th>
   </tr>
 </thead>
 <tbody>
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Aide sur l’orchestration du voyage</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> Guide de l'utilisateur de l'orchestration du voyage</a></li>
     </ul>
   </td>
   <td>
+    <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Didacticiels d’orchestration du voyage</a></li>
+    </ul>
   </td>
 </tr>
 </tbody>
