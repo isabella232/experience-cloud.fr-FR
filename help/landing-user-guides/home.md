@@ -2,14 +2,16 @@
 title: Documentation d’Adobe Experience Cloud
 description: Cette page comprend une liste complète de tous les guides et didacticiels à l’intention des utilisateurs et de la documentation d’Adobe Experience Cloud.
 translation-type: tm+mt
-source-git-commit: 0ead691624a9a9e2e4f42333ac3ed5bb9f11ef68
+source-git-commit: e3e9c587efc6228bc1465fca4141ce246a5cb310
 
 ---
 
 
 # Documentation d’Adobe Experience Cloud
 
-Cette page comprend une liste complète de tous les guides et didacticiels à l’intention des utilisateurs et de la documentation d’Adobe Experience Cloud.
+![Bannière](/help/assets/experience-cloud-banner-notext.png)
+
+Cette page comprend une liste complète des guides et didacticiels à l’intention des utilisateurs d’Adobe Experience Cloud.
 
 ## ![Notes de mise à jour des icônes](/help/assets/experience-cloud.png)
 
@@ -256,6 +258,7 @@ Cette page comprend une liste complète de tous les guides et didacticiels à l�
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-op Guide</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> Guide DTM</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Service d’emplacement</a></li>
     </ul>
   </td>
   <td>
