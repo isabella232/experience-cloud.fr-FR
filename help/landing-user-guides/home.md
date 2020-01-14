@@ -2,7 +2,7 @@
 title: Documentation d’Adobe Experience Cloud
 description: Cette page comprend une liste complète de tous les guides et didacticiels à l’intention des utilisateurs et de la documentation d’Adobe Experience Cloud.
 translation-type: tm+mt
-source-git-commit: 4375979361d0040943d6bae968c3319040b16ee3
+source-git-commit: c5870d5c3bd3409b2553d52cb29f53e103275cc2
 
 ---
 
@@ -49,7 +49,7 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/landing/home.html">Guide principal d’Analytics</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Guide d’analyse Analytics</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Guide des outils Analytics</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/admin/home.html"> Guide de l’administrateur</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/components/home.html"> Guide des composants</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/export/home.html"> Guide d'exportation</a></li>
