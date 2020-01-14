@@ -2,7 +2,7 @@
 title: Documentation d’Adobe Experience Cloud
 description: Cette page comprend une liste complète de tous les guides et didacticiels à l’intention des utilisateurs et de la documentation d’Adobe Experience Cloud.
 translation-type: tm+mt
-source-git-commit: 9a25d2e82e33e979d74b270e54f099a55cc6fd8f
+source-git-commit: 4375979361d0040943d6bae968c3319040b16ee3
 
 ---
 
@@ -177,6 +177,10 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html"> Hub de guide de l’utilisateur AEM 6.4</a></li>
       <li><a href="https://helpx.adobe.com/support/experience-manager/6-3.html"> Guides utilisateur pour les versions précédentes d’AEM</a></li>
     </ul>
+    <p><strong>AEM en tant que service cloud</strong></p>
+    <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html"> Guide de l’utilisateur d’Experience Manager en tant que service Cloud</a></li>
+    </ul>
     <p><strong>Guides AEM supplémentaires</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/aem-screens-introduction.html"> Guide de l’utilisateur AEM Screens</a></li>
@@ -201,37 +205,6 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> Didacticiels AEM Foundation</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/dispatcher-tutorial/overview.html"> Didacticiel sur le cache du répartiteur AEM</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-with-aem-headless/overview.html"> Didacticiel sans en-tête AEM</a></li>
-    </ul>
-  </td>
-</tr>
-</tbody>
-</table>
-
-## ![Icône](/help/assets/platform.png) Adobe Experience Platform
-
-<table>
-<thead>
-  <tr>
-    <th>Guides de l’utilisateur</th>
-    <th>Didacticiels et développement</th>
-  </tr>
-</thead>
-<tbody>
-<tr>
-  <td>
-    <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> Guide de la plateforme de données clientes en temps réel</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> Auditor</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> Débogueur</a></li>
-    </ul>
-  </td>
-  <td>
-    <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Didacticiels de la plateforme d’expérience</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html"> Guide de mise en oeuvre du lancement</a></li>
-      <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> API du développeur de plateformes d’expérience</a></li>
-      <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html"> SDK Web de plateforme d’expérience</a></li>
     </ul>
   </td>
 </tr>
@@ -274,6 +247,65 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
 </tbody>
 </table>
 
+## ![Plate-forme d’expérience d’icône](/help/assets/platform.png)
+
+<table>
+<thead>
+  <tr>
+    <th>Guides de l’utilisateur</th>
+    <th>Didacticiels et développement</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+  <td>
+    <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> Guide de la plateforme de données clientes en temps réel</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> Auditor</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> Débogueur</a></li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Didacticiels de la plateforme d’expérience</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html"> Guide de mise en oeuvre du lancement</a></li>
+      <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> API du développeur de plateformes d’expérience</a></li>
+      <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html"> SDK Web de plateforme d’expérience</a></li>
+    </ul>
+  </td>
+</tr>
+</tbody>
+</table>
+
+## ![Services d’application d’icône](/help/assets/experience-cloud.png) optimisés par Experience Platform
+
+<table>
+<thead>
+  <tr>
+    <th>Guides de l’utilisateur</th>
+    <th>Tutoriels</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+  <td>
+    <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Analytics du parcours client</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> Guide de la plateforme de données clientes en temps réel</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> Guide de l'utilisateur de l'orchestration du voyage</a></li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Didacticiels d’orchestration du voyage</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Didacticiels de la plateforme d’expérience</a></li>
+    </ul>
+  </td>
+</tr>
+</tbody>
+</table>
+
 ## ![Service d’emplacement d’icône](/help/assets/experience-cloud.png)
 
 <table>
@@ -291,31 +323,6 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
     </ul>
   </td>
   <td>
-  </td>
-</tr>
-</tbody>
-</table>
-
-## ![Orchestration du voyage](/help/assets/experience-cloud.png) d’icône
-
-<table>
-<thead>
-  <tr>
-    <th>Guides de l’utilisateur</th>
-    <th>Tutoriels</th>
-  </tr>
-</thead>
-<tbody>
-<tr>
-  <td>
-    <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> Guide de l'utilisateur de l'orchestration du voyage</a></li>
-    </ul>
-  </td>
-  <td>
-    <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Didacticiels d’orchestration du voyage</a></li>
-    </ul>
   </td>
 </tr>
 </tbody>
