@@ -2,7 +2,7 @@
 title: Documentation d’Adobe Experience Cloud
 description: Cette page comprend une liste complète de tous les guides et didacticiels à l’intention des utilisateurs et de la documentation d’Adobe Experience Cloud.
 translation-type: tm+mt
-source-git-commit: 7802a6b11d6b358d8106f004212709b497c9ab2b
+source-git-commit: 9aa296a9b93c0dafdcd07d3e227613dae1c2191d
 
 ---
 
@@ -75,7 +75,7 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
 <thead>
   <tr>
     <th>Guides de l’utilisateur</th>
-    <th>Tutoriels</th>
+    <th>Didacticiels et développement</th>
   </tr>
 </thead>
 <tbody>
@@ -88,6 +88,11 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html"> Didacticiels sur Target</a></li>
+      <li><a href="https://developers.adobetarget.com/api/delivery-api/"> API côté serveur Target</a></li>
+      <li><a href="https://github.com/adobe/target-nodejs-sdk"> SDK NodeJS Target</a></li>
+      <li><a href="https://github.com/adobe/target-java-sdk"> SDK Java Target</a></li>
+      <li><a href="https://developers.adobetarget.com/api/recommendations/"> API de recommandations Target</a></li>
+      <li><a href="http://developers.adobetarget.com/api/#introduction"> Documentation d’Adobe.IO Target</a></li>
     </ul>
   </td>
 </tr>
