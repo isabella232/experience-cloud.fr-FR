@@ -8,7 +8,7 @@ getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: Tutoriels
 tutorials-url: https://docs.adobe.com/content/help/en/experience-cloud/tutorials/home.html
 translation-type: tm+mt
-source-git-commit: 494aebc7541e7a25486927a8c29853e75fd9014e
+source-git-commit: 9aa296a9b93c0dafdcd07d3e227613dae1c2191d
 
 ---
 
@@ -17,10 +17,18 @@ source-git-commit: 494aebc7541e7a25486927a8c29853e75fd9014e
 
 + [Documentation d’Experience Cloud](home.md)
 + [Notes de mise à jour](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
-+ [Guides de l’utilisateur Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html)
-+ [Guide de l’utilisateur Target](https://docs.adobe.com/content/help/en/target/using/target-home.html)
-+ [Guide de l’utilisateur de Campaign Standard](https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html)
-+ [Guide de l’utilisateur de Campaign Classic](https://docs.adobe.com/content/help/en/campaign-classic/using/campaign-classic-home.html)
-+ [Guide de l’utilisateur d’Audience Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html)
-+ [Guides de l’utilisateur d’AEM 6.5](https://docs.adobe.com/content/help/en/experience-manager-65/user-guide/home.html)
-+ [Guides de l’utilisateur d’AEM 6.4](https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html)
++ [Formation et assistance pour Experience Cloud](https://helpx.adobe.com/support/experience-cloud.html)
++ [Experience League](https://experienceleague.adobe.com/)
++ [Forums de la communauté](https://forums.adobe.com/community/experience-cloud/)
++ [Formations et didacticiels Adobe](https://helpx.adobe.com/learning.html?promoid=KAUDK)
+
+<!-- commenting out in case we want to switch back to displaying main solution user guides
+
++ [Analytics User Guides](https://docs.adobe.com/content/help/en/analytics/landing/home.html)
++ [Target User Guide](https://docs.adobe.com/content/help/en/target/using/target-home.html)
++ [Campaign Standard User Guide](https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html)
++ [Campaign Classic User Guide](https://docs.adobe.com/content/help/en/campaign-classic/using/campaign-classic-home.html)
++ [Audience Manager User Guide](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html)
++ [AEM 6.5 User Guides](https://docs.adobe.com/content/help/en/experience-manager-65/user-guide/home.html)
+
+-->
