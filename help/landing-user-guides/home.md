@@ -2,7 +2,7 @@
 title: Documentation d’Adobe Experience Cloud
 description: Cette page comprend une liste complète de tous les guides et didacticiels à l’intention des utilisateurs et de la documentation d’Adobe Experience Cloud.
 translation-type: tm+mt
-source-git-commit: 9aa296a9b93c0dafdcd07d3e227613dae1c2191d
+source-git-commit: 65e52f4c85ad2a6efa7e09975e69bcd6f5ca01d1
 
 ---
 
@@ -225,7 +225,7 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-op Guide</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> Guide DTM</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Service d’emplacement</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Service Places (anciennement Service d’emplacement)</a></li>
     </ul>
   </td>
   <td>
@@ -265,6 +265,7 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Analytics du parcours client</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> Guide de la plateforme de données clientes en temps réel</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> Guide de l'utilisateur de l'orchestration du voyage</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Service Places</a></li>
     </ul>
   </td>
   <td>
