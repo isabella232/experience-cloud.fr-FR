@@ -2,7 +2,7 @@
 title: Documentation d’Adobe Experience Cloud
 description: Cette page comprend une liste complète de tous les guides et didacticiels à l’intention des utilisateurs et de la documentation d’Adobe Experience Cloud.
 translation-type: tm+mt
-source-git-commit: 65e52f4c85ad2a6efa7e09975e69bcd6f5ca01d1
+source-git-commit: 86b60471cb3fc660eb6c36469fedb77e9034dd78
 
 ---
 
@@ -41,7 +41,7 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
 <thead>
   <tr>
     <th>Guides de l’utilisateur</th>
-    <th>Didacticiels et développement</th>
+    <th>Didacticiels et ressources</th>
   </tr>
 </thead>
 <tbody>
@@ -56,13 +56,16 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
       <li><a href="https://docs.adobe.com/content/help/en/analytics/implementation/home.html"> Guide de mise en œuvre</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/import/home.html"> Guide d'importation</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/integration/home.html"> Guide d’intégration</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/media-analytics/using/media-overview.html"> Guide d’analyse des médias</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/data-workbench/using/home.html"> Guide des outils de données</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Analytics du parcours client</a></li>
     </ul>
   </td>
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html"> Didacticiels Analytics</a></li>
-      <li><a href="https://www.adobe.io/apis/experiencecloud/analytics/docs.html"> API Analytics</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/technotes/home.html"> Notes techniques d’Analytics</a></li>
+      <li><a href="https://www.adobe.io/apis/experiencecloud/analytics/docs.html"> API Analytics </a></li>
     </ul>
   </td>
 </tr>
@@ -113,7 +116,7 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html"> Campaign Standard</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic/using/campaign-classic-home.html"> Campaign Classic</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic/using/campaign-classic-home.html"> Campaign Classic </a></li>
     </ul>
   </td>
   <td>
