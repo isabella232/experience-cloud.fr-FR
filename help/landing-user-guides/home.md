@@ -2,7 +2,7 @@
 title: Documentation d’Adobe Experience Cloud
 description: Cette page comprend une liste complète de tous les guides et didacticiels à l’intention des utilisateurs et de la documentation d’Adobe Experience Cloud.
 translation-type: tm+mt
-source-git-commit: 86b60471cb3fc660eb6c36469fedb77e9034dd78
+source-git-commit: cc5c6fc4c0cff2107baffe1f3a2cbb6174e4bedf
 
 ---
 
@@ -259,6 +259,7 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
     <p><strong>Experience Platform</strong></p>
     <ul>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/overview.html"> Documentation de la plateforme d’expérience</a></li>
+      <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html"> Notes de mise à jour de la plateforme</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> Débogueur</a></li>
