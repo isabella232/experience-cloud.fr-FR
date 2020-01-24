@@ -2,14 +2,14 @@
 title: Documentation d’Adobe Experience Cloud
 description: Cette page comprend une liste complète de tous les guides et didacticiels à l’intention des utilisateurs et de la documentation d’Adobe Experience Cloud.
 translation-type: tm+mt
-source-git-commit: aad5d5503b1041cc060bfa4b38bfbdfcd5b26e87
+source-git-commit: a7ee26aed10bb7d1460372731068e053a2d6bc31
 
 ---
 
 
 # Documentation d’Adobe Experience Cloud
 
-![Bannière](/help/assets/experience-cloud-banner-notext.png)
+![Bannière](/help/assets/experience-cloud-banner-3.png)
 
 Cette page comprend une liste complète des guides et didacticiels à l’intention des utilisateurs d’Adobe Experience Cloud.
 
