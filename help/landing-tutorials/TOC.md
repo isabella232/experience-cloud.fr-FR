@@ -1,11 +1,11 @@
 ---
 user-guide-title: Adobe Experience Cloud User Guides
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: dda353ab4bf5274c438de2ed1772a41950d6c201
 
 ---
 
 
-# Didacticiels Experience Cloud {#tutorials}
+# Tutoriels Experience Cloud {#tutorials}
 
-+ [Didacticiels Experience Cloud](home.md)
++ [Tutoriels Experience Cloud](home.md)
