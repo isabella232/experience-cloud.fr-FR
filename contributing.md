@@ -1,6 +1,6 @@
 ---
 source-git-commit: ec724d95b7d0f0a72119c745fb124192863a9aee
-translation-type: tm+mt
+translation-type: ht
 
 ---
 # Contribution
@@ -19,4 +19,4 @@ Toutes les contributions tierces à ce projet doivent être accompagnées d’un
 
 ## Révisions du code
 
-Toutes les soumissions doivent être effectuées sous la forme de requêtes de tirage et doivent être examinées par les responsables du projet. Lisez la [documentation sur la requête de tirage de GitHub](https://help.github.com/articles/about-pull-requests/) pour en savoir plus sur l’envoi de requêtes de tirage.
+Toutes les soumissions doivent être effectuées sous la forme de requêtes de tirage et doivent être examinées par les responsables du projet. Lisez la [documentation sur la requête de tirage de GitHub](https://help.github.com/fr/github/collaborating-with-issues-and-pull-requests/about-pull-requests) pour en savoir plus sur l’envoi de requêtes de tirage.
