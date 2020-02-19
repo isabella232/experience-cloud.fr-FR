@@ -1,6 +1,6 @@
 ---
 source-git-commit: ec724d95b7d0f0a72119c745fb124192863a9aee
-translation-type: tm+mt
+translation-type: ht
 
 ---
 # Code de conduite Adobe
@@ -31,7 +31,7 @@ Exemples de comportements non acceptables de la part des participants :
 
 Les responsables du projet doivent clarifier les critères de comportement acceptables de ce projet. Il est attendu que ces personnes prennent les mesures correctives justes et appropriées en réponse à tout comportement inacceptable.
 
-Les personnes qui assurent la maintenance du projet ont le droit et la responsabilité de supprimer, modifier ou rejeter les commentaires, les commits (validations), le code, les modifications du wiki, les questions et autres contributions qui ne respectent pas ce Code de conduite, ou de bannir temporairement ou définitivement tout contributeur à la suite de comportements jugés inappropriés, menaçants, injurieux, ou nuisibles.
+Les personnes qui assurent la maintenance du projet ont le droit et la responsabilité de supprimer, modifier ou rejeter les commentaires, les validations, le code, les modifications du wiki, les questions et autres contributions qui ne respectent pas ce Code de conduite, ou de bannir temporairement ou définitivement tout contributeur à la suite de comportements jugés inappropriés, menaçants, injurieux, ou nuisibles.
 
 ## Portée
 
