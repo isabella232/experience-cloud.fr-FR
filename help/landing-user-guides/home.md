@@ -2,7 +2,7 @@
 title: Documentation Adobe Experience Cloud
 description: Cette page contient la liste complète de la documentation Adobe Experience Cloud, ainsi que des guides de l’utilisateur et tutoriels sur son activation.
 translation-type: tm+mt
-source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
+source-git-commit: 77f00aaf2984d22e69e262432a66b526e8129a84
 
 ---
 
@@ -11,7 +11,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 
 ![Bannière](/help/assets/experience-cloud-banner-3.png)
 
-Cette page comprend une liste complète des guides et didacticiels à l’intention des utilisateurs d’Adobe Experience Cloud.
+Cette page comprend un complet de guides et de didacticiels à l’intention des utilisateurs d’Adobe Experience Cloud.
 
 ## ![Icône](/help/assets/experience-cloud.png) Notes de mise à jour
 
@@ -72,7 +72,7 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
 </tbody>
 </table>
 
-## ![Ciblage d’icône](/help/assets/target.png)
+## ![d’icônes](/help/assets/target.png) 
 
 <table>
 <thead>
@@ -90,19 +90,19 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html"> Didacticiels sur Target</a></li>
-      <li><a href="https://developers.adobetarget.com/api/delivery-api/"> API côté serveur Target</a></li>
-      <li><a href="https://github.com/adobe/target-nodejs-sdk"> SDK NodeJS Target</a></li>
-      <li><a href="https://github.com/adobe/target-java-sdk"> SDK Java Target</a></li>
-      <li><a href="https://developers.adobetarget.com/api/recommendations/"> API de recommandations Target</a></li>
-      <li><a href="http://developers.adobetarget.com/api/#introduction"> Documentation d’Adobe.IO Target</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html"> Didacticiels sur les </a></li>
+      <li><a href="https://developers.adobetarget.com/api/delivery-api/"> API  côté serveur</a></li>
+      <li><a href="https://github.com/adobe/target-nodejs-sdk"> SDK NodeJS </a></li>
+      <li><a href="https://github.com/adobe/target-java-sdk"> SDK Java </a></li>
+      <li><a href="https://developers.adobetarget.com/api/recommendations/"> API de recommandations </a></li>
+      <li><a href="http://developers.adobetarget.com/api/#introduction"> Documentation  Adobe.IO</a></li>
     </ul>
   </td>
 </tr>
 </tbody>
 </table>
 
-## ![Campagne d’icône](/help/assets/campaign.png)
+## ![Campaign d’icône](/help/assets/campaign.png)
 
 <table>
 <thead>
@@ -116,20 +116,20 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html"> Campaign Standard</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic/using/campaign-classic-home.html"> Campaign Classic </a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic/using/campaign-classic-home.html"> Campaign Classic</a></li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Didacticiels sur Campaign Classic</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> Didacticiels sur Campaign Standard</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Didacticiels Campaign Classic</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> Didacticiels Campaign Standard</a></li>
     </ul>
   </td>
 </tr>
 </tbody>
 </table>
 
-## ![Icon](/help/assets/audience-manager.png) Audience Manager
+## ![Icône](/help/assets/audience-manager.png) Audience Manager
 
 <table>
 <thead>
@@ -147,7 +147,7 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/overview.html">  Didacticiels Audience Manager</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/overview.html">  Didacticiels sur  Manager</a></li>
     </ul>
   </td>
 </tr>
@@ -244,7 +244,7 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
 </tbody>
 </table>
 
-## ![Plate-forme d’expérience d’icône](/help/assets/platform.png)
+## ![Icône](/help/assets/platform.png) Experience Platform
 
 <table>
 <thead>
@@ -277,7 +277,7 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Didacticiels de la plateforme d’expérience</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Guide de mise en œuvre de Launch</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> API du développeur d’Experience Platform</a></li>
-      <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html"> SDK web d’Experience Platform</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/edge/home.html"> SDK web d’Experience Platform</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Didacticiels d’orchestration du voyage</a></li>
     </ul>
   </td>
@@ -312,7 +312,7 @@ Cette page comprend une liste complète des guides et didacticiels à l’intent
 </tbody>
 </table>
 
-## ![Icon](/help/assets/advertising-cloud.png) Advertising Cloud
+## ![Icône](/help/assets/advertising-cloud.png) Advertising Cloud
 
 L’aide d’Advertising Cloud est accessible dans le produit en cliquant sur l’icône Aide (?) en haut de chaque page.
 
