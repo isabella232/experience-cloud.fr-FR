@@ -2,7 +2,7 @@
 title: Documentation Adobe Experience Cloud
 description: Cette page contient la liste complète de la documentation Adobe Experience Cloud, ainsi que des guides de l’utilisateur et tutoriels sur son activation.
 translation-type: tm+mt
-source-git-commit: eede3f444c3bba202cb3a743a6c8f9513f5c0ecc
+source-git-commit: 2c27fc142ae16c5dc985b6790d7de2393c7cd863
 
 ---
 
@@ -49,15 +49,15 @@ Cette page comprend un complet de guides et de didacticiels à l’intention des
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/landing/home.html">Guide principal Analytics</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Guide des outils Analytics</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Guide sur les outils Analytics</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/admin/home.html"> Guide de l’administrateur</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/components/home.html"> Guide des composants</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/export/home.html"> Guide d’exportation</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/implementation/home.html"> Guide de mise en œuvre</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/import/home.html"> Guide d’importation</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/integration/home.html"> Guide d’intégration </a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/media-analytics/using/media-overview.html"> Guide d’analyse des médias</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/data-workbench/using/home.html"> Guide des outils de données</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/media-analytics/using/media-overview.html"> Guide de Media Analytics</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/data-workbench/using/home.html"> Guide de Data Workbench</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Analytics du parcours client</a></li>
     </ul>
   </td>
@@ -184,8 +184,8 @@ Cette page comprend un complet de guides et de didacticiels à l’intention des
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-dispatcher/using/dispatcher.html"> AEM Dispatcher</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html"> AEM Cloud Manager</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html"> Composants principaux d’AEM</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/exc/using/overview.html"> Bibliothèque Adobe Experience Cloud</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html"> Application de bureau AEM</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/home.html"> AEM Brand Portal</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html"> Service de conversion automatisée d’AEM Forms</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html"> Dynamic Media Classic</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> Guide du développeur de Dynamic Media</a></li>
