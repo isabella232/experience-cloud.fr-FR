@@ -2,7 +2,7 @@
 title: Documentation Adobe Experience Cloud
 description: Cette page contient la liste complète de la documentation Adobe Experience Cloud, ainsi que des guides de l’utilisateur et tutoriels sur son activation.
 translation-type: tm+mt
-source-git-commit: 2c27fc142ae16c5dc985b6790d7de2393c7cd863
+source-git-commit: 94b17629897a888d3df601dbba632afbd99905af
 
 ---
 
@@ -227,7 +227,7 @@ Cette page comprend un complet de guides et de didacticiels à l’intention des
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> SDK de Mobile Services v4</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Guide Device Co-op</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> Guide de gestion dynamique des balises</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> Guide de la gestion dynamique des balises</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Service Places (anciennement Service d’emplacement)</a></li>
     </ul>
   </td>
@@ -259,7 +259,7 @@ Cette page comprend un complet de guides et de didacticiels à l’intention des
     <p><strong>Experience Platform</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/landing/home.html"> Documentation de la plateforme d’expérience</a></li>
-      <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html"> Notes de mise à jour de la plateforme</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/release-notes/latest.html"> Notes de mise à jour de la plateforme</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
