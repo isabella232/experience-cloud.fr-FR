@@ -2,18 +2,18 @@
 title: Documentation Adobe Experience Cloud
 description: Cette page contient la liste complète de la documentation Adobe Experience Cloud, ainsi que des guides de l’utilisateur et tutoriels sur son activation.
 translation-type: tm+mt
-source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
+source-git-commit: 388544382efef6d42129c48f1d14cb78a58e6ff4
 
 ---
 
 
 # Documentation Adobe Experience Cloud
 
-![Bannière](/help/assets/experience-cloud-banner-3.png)
+![Bannière](/help/assets/experience-cloud-banner-4.png)
 
 Cette page contient la liste complète des guides de l’utilisateur et tutoriels relatifs à Adobe Experience Cloud.
 
-## ![Icône](/help/assets/experience-cloud.png) Notes de mise à jour
+## Notes de mise à jour
 
 <table>
 <thead>
@@ -35,7 +35,7 @@ Cette page contient la liste complète des guides de l’utilisateur et tutoriel
 </tbody>
 </table>
 
-## ![Icône](/help/assets/analytics.png) Analytics
+## Analytics
 
 <table>
 <thead>
@@ -72,7 +72,7 @@ Cette page contient la liste complète des guides de l’utilisateur et tutoriel
 </tbody>
 </table>
 
-## ![Icône](/help/assets/target.png) Target
+## Target
 
 <table>
 <thead>
@@ -102,7 +102,7 @@ Cette page contient la liste complète des guides de l’utilisateur et tutoriel
 </tbody>
 </table>
 
-## ![Icône](/help/assets/campaign.png) Campaign
+## Campaign
 
 <table>
 <thead>
@@ -129,7 +129,7 @@ Cette page contient la liste complète des guides de l’utilisateur et tutoriel
 </tbody>
 </table>
 
-## ![Icône](/help/assets/audience-manager.png) Audience Manager
+## Audience Manager
 
 <table>
 <thead>
@@ -154,7 +154,7 @@ Cette page contient la liste complète des guides de l’utilisateur et tutoriel
 </tbody>
 </table>
 
-## ![Icône](/help/assets/aem.png) Adobe Experience Manager
+## Adobe Experience Manager
 
 <table>
 <thead>
@@ -207,7 +207,7 @@ Cette page contient la liste complète des guides de l’utilisateur et tutoriel
 </tbody>
 </table>
 
-## ![Icône](/help/assets/experience-cloud.png) des services principaux, de l’administration et de l’implémentation
+## Services principaux, administration et implémentation
 
 <table>
 <thead>
@@ -244,7 +244,7 @@ Cette page contient la liste complète des guides de l’utilisateur et tutoriel
 </tbody>
 </table>
 
-## ![Icône](/help/assets/platform.png) Experience Platform
+## Experience Platform
 
 <table>
 <thead>
@@ -286,7 +286,7 @@ Cette page contient la liste complète des guides de l’utilisateur et tutoriel
 </tbody>
 </table>
 
-## ![Icône](/help/assets/primetime.png) Primetime
+## Primetime
 
 <table>
 <thead>
@@ -313,7 +313,7 @@ Cette page contient la liste complète des guides de l’utilisateur et tutoriel
 </tbody>
 </table>
 
-## ![Icône](/help/assets/advertising-cloud.png) Advertising Cloud
+## Advertising Cloud
 
 L’aide d’Advertising Cloud est accessible dans le produit en cliquant sur l’icône Aide (?) en haut de chaque page.
 
@@ -338,7 +338,7 @@ L’aide d’Advertising Cloud est accessible dans le produit en cliquant sur l�
 </tbody>
 </table>
 
-## ![Icône](/help/assets/marketo.png) Marketo
+## Marketo
 
 <table>
 <thead>
@@ -362,7 +362,7 @@ L’aide d’Advertising Cloud est accessible dans le produit en cliquant sur l�
 </tbody>
 </table>
 
-## ![Icône](/help/assets/magento.png) Magento
+## Magento
 
 <table>
 <thead>
@@ -385,7 +385,7 @@ L’aide d’Advertising Cloud est accessible dans le produit en cliquant sur l�
 </tbody>
 </table>
 
-## ![Icône](/help/assets/experience-cloud.png) Guides supplémentaires Experience Cloud
+## Guides supplémentaires sur Experience Cloud
 
 <table>
 <thead>
