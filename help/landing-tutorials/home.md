@@ -1,7 +1,7 @@
 ---
 title: Tutoriels Adobe Experience Cloud
 description: Liens vers les tutoriels et guides d’apprentissage Experience Cloud
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 0231cf7fcd40d46873964fbd9223b989ac4309a9
 
 ---
@@ -26,8 +26,8 @@ source-git-commit: 0231cf7fcd40d46873964fbd9223b989ac4309a9
 ## Services principaux et services de Platform
 
 * [Tutoriels sur les services principaux](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)
-* [Didacticiels vidéo sur les plateformes](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
-* [Didacticiels sur les plateformes](https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html)
+* [Tutoriels vidéo sur Platform](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Tutoriels sur Platform](https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html)
 * [Guide de mise en œuvre de Launch](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html)
 * [Mise en œuvre d’Experience Cloud dans les applications mobiles Swift pour iOS](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
 * [Mise en œuvre d’Experience Cloud dans les applications mobiles Objective-C pour iOS](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
