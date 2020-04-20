@@ -1,7 +1,7 @@
 ---
 title: Documentation Adobe Experience Cloud
 description: Cette page contient la liste complète de la documentation Adobe Experience Cloud, ainsi que des guides de l’utilisateur et tutoriels sur son activation.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d718636d9c81bc6166bbe72f998b106f4a9efee0
 
 ---
@@ -173,7 +173,7 @@ Cette page contient la liste complète des guides de l’utilisateur et tutoriel
     <p><strong>Versions d’AEM</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-65/user-guide/home.html"> Guides de l’utilisateur d’AEM 6.5</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html"> Guides de l’utilisateur d’AEM 6.4</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-64/user-guide/home.translate.html"> Guides de l’utilisateur d’AEM 6.4</a></li>
       <li><a href="https://helpx.adobe.com/fr/support/experience-manager/6-3.html"> Guides de l’utilisateur pour les versions précédentes d’AEM</a></li>
     </ul>
     <p><strong>Guides AEM supplémentaires</strong></p>
@@ -188,7 +188,7 @@ Cette page contient la liste complète des guides de l’utilisateur et tutoriel
       <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-brand-portal/using/home.html"> AEM Brand Portal</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/aem-forms-automated-conversion-service/using/introduction.html"> Service de conversion automatisée d’AEM Forms</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/dynamic-media-classic/using/home.html"> Dynamic Media Classic</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> Guide du développeur de Dynamic Media</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/dynamic-media-developer-resources/landing/home.translate.html"> Guide du développeur de Dynamic Media</a></li>
     </ul>
   </td>
   <td>
@@ -299,14 +299,14 @@ Cette page contient la liste complète des guides de l’utilisateur et tutoriel
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/release-notes/home.html"> Notes de mise à jour de Primetime</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/programming/home.html"> Guide de programmation de Primetime</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/migration/home.html"> Guide de migration et de conversion Primetime</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/reference-implementation/home.html"> Implémentation des références Primetime</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/ad-insertion/home.html"> Insertion d’annonce dynamique Primetime</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/drm/home.html"> Digital Rights Management Primetime</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/reference/api-references.html"> Références de l’API Primetime</a></li>
-      <li><a href="https://helpx.adobe.com/primetime/archives.html"> Documentation archivée Primetime</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/primetime/release-notes/home.translate.html"> Notes de mise à jour de Primetime</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/primetime/programming/home.translate.html"> Guide de programmation de Primetime</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/primetime/migration/home.translate.html"> Guide de migration et de conversion de Primetime</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/primetime/reference-implementation/home.translate.html"> Implémentation des références Primetime</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/primetime/ad-insertion/home.translate.html"> Insertion de publicités dynamiques Primetime</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/primetime/drm/home.translate.html"> Digital Rights Management Primetime</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/primetime/reference/api-references.translate.html"> Références de l’API Primetime</a></li>
+      <li><a href="https://helpx.adobe.com/primetime/archives.html"> Documentation Primetime archivée</a></li>
     </ul>
   </td>
   <td>
@@ -387,7 +387,7 @@ L’aide d’Advertising Cloud est accessible dans le produit en cliquant sur l�
 </tbody>
 </table>
 
-## Guides supplémentaires sur Experience Cloud
+## Guides Experience Cloud supplémentaires
 
 <table>
 <thead>
