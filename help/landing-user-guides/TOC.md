@@ -6,8 +6,8 @@ solution-icon: assets/experience-cloud.png
 getting-started-title: Experience League
 getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: Tutoriels
-tutorials-url: https://docs.adobe.com/content/help/fr-FR/experience-cloud/tutorials/home.html
-translation-type: tm+mt
+tutorials-url: https://docs.adobe.com/content/help/fr-FR/experience-cloud/tutorials/home.translate.html
+translation-type: ht
 source-git-commit: b230bf80ad3340b90c6ac14ecbc7a3de618ad433
 
 ---
