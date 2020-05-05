@@ -1,7 +1,7 @@
 ---
 title: Documentation Adobe Experience Cloud
 description: Cette page contient la liste complète de la documentation Adobe Experience Cloud, ainsi que des guides de l’utilisateur et tutoriels sur son activation.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 16d9ff51e0d0a99f6f87981dbd84fe44453962f3
 
 ---
@@ -15,7 +15,7 @@ Cette page contient la liste complète des guides de l’utilisateur et tutoriel
 
 >[!NOTE]
 >
->L’utilisation de la fonction de recherche sur cette page est limitée à un petit jeu de contenu. Nous vous recommandons d’accéder à un guide de l’utilisateur spécifique (tel qu’Analytics ou  de) pour effectuer des recherches dans cette zone. Nous améliorerons la fonctionnalité de recherche avec le prochain passage à la Ligue d&#39;expérience.
+>L’utilisation de la fonction de recherche sur cette page est limitée à un petit jeu de contenu. Nous vous recommandons d’accéder à un guide d’utilisation spécifique (tel qu’Analytics ou Target) pour effectuer des recherches dans ce domaine. Nous améliorerons la fonctionnalité de recherche avec le prochain passage à Experience League.
 
 <!--
 To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
@@ -267,7 +267,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <p><strong>Experience Platform</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-platform/landing/home.html"> Documentation d’Experience Platform</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/release-notes/latest.html"> Notes de mise à jour de Platform</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-platform/release-notes/latest.translate.html"> Notes de mise à jour de Platform</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
@@ -283,7 +283,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Tutoriels vidéo sur Experience Platform</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html"> Tutoriels Experience Platform</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-platform/tutorials/home.html"> Tutoriels Experience Platform</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Guide de mise en œuvre de Launch</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> API du développeur d’Experience Platform</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-platform/edge/home.html"> SDK web d’Experience Platform</a></li>
@@ -314,7 +314,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/fr-FR/primetime/ad-insertion/home.translate.html"> Insertion de publicités dynamiques Primetime</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/primetime/drm/home.translate.html"> Digital Rights Management Primetime</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/primetime/reference/api-references.translate.html"> Références de l’API Primetime</a></li>
-      <li><a href="https://helpx.adobe.com/primetime/archives.html"> Documentation Primetime archivée</a></li>
+      <li><a href="https://helpx.adobe.com/fr/primetime/archives.html"> Documentation Primetime archivée</a></li>
     </ul>
   </td>
   <td>
