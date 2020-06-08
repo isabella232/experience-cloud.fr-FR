@@ -2,10 +2,10 @@
 title: Documentation Adobe Experience Cloud
 description: Cette page contient la liste complète de la documentation Adobe Experience Cloud, ainsi que des guides de l’utilisateur et tutoriels sur son activation.
 translation-type: tm+mt
-source-git-commit: 16d9ff51e0d0a99f6f87981dbd84fe44453962f3
+source-git-commit: 5efddee70396ff07b918cfc60914701c89bcae41
 workflow-type: tm+mt
-source-wordcount: '1290'
-ht-degree: 100%
+source-wordcount: '1269'
+ht-degree: 97%
 
 ---
 
@@ -18,7 +18,7 @@ Cette page contient la liste complète des guides de l’utilisateur et tutoriel
 
 >[!NOTE]
 >
->L’utilisation de la fonction de recherche sur cette page est limitée à un petit jeu de contenu. Nous vous recommandons d’accéder à un guide d’utilisation spécifique (tel qu’Analytics ou Target) pour effectuer des recherches dans ce domaine. Nous améliorerons la fonctionnalité de recherche avec le prochain passage à Experience League.
+>Pour optimiser la recherche lors de la migration du contenu de la documentation, nous vous recommandons de parcourir les sections de produits ci-dessous et d&#39;effectuer une recherche au niveau du guide.
 
 <!--
 To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
