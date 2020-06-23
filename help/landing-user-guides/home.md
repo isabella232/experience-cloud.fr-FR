@@ -5,7 +5,7 @@ translation-type: tm+mt
 source-git-commit: c97f610c2ea231b40bfd59e7998557768070a108
 workflow-type: tm+mt
 source-wordcount: '1280'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -133,7 +133,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Tutoriels Campaign Classic</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> Tutoriels Campaign Standard</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/campaign-standard-learn/tutorials/overview.html"> Tutoriels Campaign Standard</a></li>
     </ul>
   </td>
 </tr>
@@ -238,7 +238,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/fr-FR/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> SDK de Mobile Services v4</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/device-co-op/using/home.html"> Guide Device Co-op</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/launch/using/overview.html"> Experience Platform Launch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/fr-FR/dtm/using/dtm-home.html"> Guide de Dynamic Tag Management </a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/dtm/using/dtm-home.html"> Guide de Dynamic Tag Management</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/places/using/home.html"> Places Service (anciennement Location Service)</a></li>
     </ul>
   </td>
@@ -411,7 +411,7 @@ L’aide d’Advertising Cloud est accessible dans le produit en cliquant sur l�
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html"> Distribution logicielle</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-cloud/software-distribution/home.html"> Distribution logicielle</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/search-promote/using/sp-home.html"> Search&amp;Promote</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/livefyre/using/home.html"> Guide de l’utilisateur Livefyre</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/livefyre/implementation/home.html"> Guide de mise en œuvre Livefyre</a></li>
