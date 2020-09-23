@@ -1,10 +1,10 @@
 ---
 title: Documentation Adobe Experience Cloud
 description: Cette page contient la liste complète de la documentation Adobe Experience Cloud, ainsi que des guides de l’utilisateur et tutoriels sur son activation.
-translation-type: ht
-source-git-commit: 1acfc2c352199022f1bd6c9d043ccc6714c6148b
-workflow-type: ht
-source-wordcount: '1291'
+translation-type: tm+mt
+source-git-commit: 8a8c58787439effac3ee69dbe2f49853550bdb10
+workflow-type: tm+mt
+source-wordcount: '1295'
 ht-degree: 100%
 
 ---
@@ -291,7 +291,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/fr-FR/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html"> Guide de mise en œuvre de Launch</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> API du développeur d’Experience Platform</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-platform/edge/home.html"> SDK web d’Experience Platform</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Tutoriels Journey Orchestration</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/platform-learn/tutorials/journey-orchestration/introduction.html"> Tutoriels Journey Orchestration</a></li>
     </ul>
   </td>
 </tr>
@@ -366,7 +366,7 @@ L’aide d’Advertising Cloud est accessible dans le produit en cliquant sur l�
   <td>
     <ul>
       <li><a href="https://docs.marketo.com/"> Produit Marketo (Classic)</a></li>
-      <li><a href="https://help.marketo.com/hc/en-us"> Marketo Sky</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/marketo/sky/home.html"> Marketo Sky</a></li>
       <li><a href="https://docs.marketo.com/display/BIZ/Bizible"> Documentation Bizible</a></li>
     </ul>
   </td>
