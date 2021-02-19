@@ -271,24 +271,24 @@ To see a preview of our documentation staged on Experience League, see [About Mo
     <ul>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-platform/landing/home.html"> Documentation d’Experience Platform</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-platform/release-notes/latest.translate.html"> Notes de mise à jour de Platform</a></li>
-      <li><a href="https://docs.adobe.com/content/help/fr-FR/launch/using/overview.html"> Experience Platform Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/debugger/using-v2/experience-cloud-debugger.html"> Debugger v2 (Bêta)</a></li>
     </ul>
     <p><strong>Services d’applications proposés par Experience Platform</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/fr-FR/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-platform/rtcdp/overview.html"> Guide des plateformes de données client en temps réel</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/journeys/using/journey-orchestration-home.html"> Guide de l’utilisateur Journey Orchestration</a></li>
-      <li><a href="https://docs.adobe.com/content/help/fr-FR/places/using/home.html"> Places Service</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Places Service</a></li>
     </ul>
   </td>
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Tutoriels vidéo sur Experience Platform</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-platform/tutorials/home.html"> Tutoriels Experience Platform</a></li>
-      <li><a href="https://docs.adobe.com/content/help/fr-FR/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html"> Guide de mise en œuvre de Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Guide de mise en œuvre de Launch</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> API du développeur d’Experience Platform</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-platform/edge/home.html"> SDK web d’Experience Platform</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html"> Tutoriels Journey Orchestration</a></li>
