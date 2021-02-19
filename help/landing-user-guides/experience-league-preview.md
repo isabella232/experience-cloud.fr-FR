@@ -59,14 +59,14 @@ Adobe est en train de migrer la documentation d’Experience Cloud de `docs.adob
 
 **Target**
 
-* [Target](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html)
+* [Cible](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html)
 * [Search&amp;Promote](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html)
 
 **Tutoriels de formation**
 
 * [Tutoriels sur AEM](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html)
 * [Tutoriels sur Analytics](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html)
-* [Tutoriels sur Audience Manager](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html)
+* [Tutoriels sur Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html)
 * [Tutoriels sur Campaign Standard](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html)
 * [Tutoriels sur Campaign Classic](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html)
 * [Tutoriels sur Target](https://docs.adobe.com/content/help/fr-FR/experience-cloud/user-guides/home.translate.html)
