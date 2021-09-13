@@ -59,7 +59,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/analytics/landing/home.html">Guide principal Analytics</a></li>
-      <li><a href="https://docs.adobe.com/content/help/fr-FR/analytics/analyze/home.html"> Guide sur les outils Analytics</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/analytics/analyze/home.html"> Guide des outils Analytics</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/analytics/admin/home.html"> Guide de l’administrateur</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/analytics/components/home.html"> Guide des composants</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/analytics/export/home.html"> Guide d’exportation</a></li>
@@ -95,7 +95,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/fr-FR/target/using/target-home.html"> Guide Target</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/target/using/target-home.html"> Guide de Target</a></li>
     </ul>
   </td>
   <td>
@@ -157,7 +157,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/fr-FR/audience-manager-learn/tutorials/overview.html"> Tutoriels Audience Manager</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/audience-manager-learn/tutorials/overview.html"> Tutoriels sur Audience Manager</a></li>
     </ul>
   </td>
 </tr>
@@ -186,7 +186,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-64/user-guide/home.translate.html"> Guides de l’utilisateur d’AEM 6.4</a></li>
       <li><a href="https://helpx.adobe.com/fr/support/experience-manager/6-3.html"> Guides de l’utilisateur pour les versions précédentes d’AEM</a></li>
     </ul>
-    <p><strong>Guides AEM supplémentaires</strong></p>
+    <p><strong>Guides d’AEM supplémentaires</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-screens/user-guide/aem-screens-introduction.html"> Guide de l’utilisateur AEM Screens</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-screens/using/about-guide.html"> Guide des bonnes pratiques pour AEM Screens</a></li>
@@ -204,13 +204,13 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-learn/cloud-service/overview.html"> Tutoriels sur AEM as a Cloud Service</a></li>
-      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-learn/assets/overview.html"> Tutoriels AEM Assets</a></li>
-      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-learn/forms/overview.html"> Tutoriels AEM Forms</a></li>
-      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-learn/sites/overview.html"> Tutoriels AEM Sites</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-learn/assets/overview.html"> Tutoriels sur AEM Assets</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-learn/forms/overview.html"> Tutoriels sur AEM Forms</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-learn/sites/overview.html"> Tutoriels sur AEM Sites</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html"> Tutoriel WKND AEM Sites</a></li>
-      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-learn/assets/overview.html"> Tutoriels AEM Foundation</a></li>
-      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-learn/dispatcher-tutorial/overview.html"> Tutoriel AEM Dispatcher</a></li>
-      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-learn/getting-started-with-aem-headless/overview.html"> Tutoriel AEM Headless</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-learn/assets/overview.html"> Tutoriels sur AEM Foundation</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-learn/dispatcher-tutorial/overview.html"> Tutoriel sur AEM Dispatcher</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-manager-learn/getting-started-with-aem-headless/overview.html"> Tutoriel sur AEM Headless</a></li>
     </ul>
   </td>
 </tr>
@@ -268,7 +268,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <p><strong>Experience Platform</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-platform/landing/home.html"> Documentation d’Experience Platform</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-platform/landing/home.html"> Documentation Experience Platform</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-platform/release-notes/latest.translate.html"> Notes de mise à jour de Platform</a></li>
       <li><a href="https://experienceleague.adobe.com/docs/launch/using/home.html?lang=fr"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/auditor/using/overview.html"> Auditor</a></li>
@@ -286,11 +286,11 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/platform-learn/tutorials/overview.html"> Tutoriels vidéo sur Experience Platform</a></li>
-      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-platform/tutorials/home.html"> Tutoriels Experience Platform</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-platform/tutorials/home.html"> Tutoriels sur Experience Platform</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/core-services-learn/implementing-in-websites-with-launch/index.html"> Guide de mise en œuvre de Launch</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> API du développeur d’Experience Platform</a></li>
       <li><a href="https://docs.adobe.com/content/help/fr-FR/experience-platform/edge/home.html"> SDK web d’Experience Platform</a></li>
-      <li><a href="https://docs.adobe.com/content/help/fr-FR/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html"> Tutoriels Journey Orchestration</a></li>
+      <li><a href="https://docs.adobe.com/content/help/fr-FR/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html"> Tutoriels sur Journey Orchestration</a></li>
     </ul>
   </td>
 </tr>
