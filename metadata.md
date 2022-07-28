@@ -1,18 +1,17 @@
 ---
 cloud: Experience Cloud
 solution-title: Experience Cloud
-solution-hub-url: https://helpx.adobe.com/fr/support/experience-cloud.html
+solution-hub-url: https://helpx.adobe.com/support/experience-cloud.html
 solution-icon: assets/experience-cloud.png
 getting-started-title: Experience League
 getting-started-url: https://landing.adobe.com/experience-league/
-git-repo: https://git.corp.adobe.com/AdobeDocs/experience-cloud.fr-FR
+git-repo: https://github.com/AdobeDocs/experience-cloud.fr-FR
 index: true
 mini-toc-levels: 2
 product: experience cloud
-translation-type: ht
 source-git-commit: d95bfc5f8ce27cdd314810ec00c21dcf5cf9cb28
-workflow-type: ht
-source-wordcount: '122'
+workflow-type: tm+mt
+source-wordcount: '111'
 ht-degree: 100%
 
 ---
