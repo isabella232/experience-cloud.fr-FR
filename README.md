@@ -1,6 +1,6 @@
 ---
 source-git-commit: 11c77aec2c0b04e2d6c09cb09f8fc52552aeff97
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '429'
 ht-degree: 100%
 
@@ -47,7 +47,7 @@ Consultez le [Guide du contributeur de documents Adobe](https://experienceleague
 
 Tous les articles de ce référentiel utilisent GitHub Flavored Markdown. Si vous n’êtes pas familiarisé avec Markdown, reportez-vous à :
 
-* [Concepts de base de Markdown](https://help.github.com/articles/markdown-basics/)
+* [Concepts de base de Markdown](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 * [Markdown cheatsheet imprimable](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## Étiquettes
