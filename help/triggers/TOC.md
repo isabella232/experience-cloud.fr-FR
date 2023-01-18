@@ -3,10 +3,11 @@ user-guide-title: Triggers Adobe Experience Cloud
 user-guide-description: Triggers Adobe Experience Cloud
 breadcrumb-title: Triggers Adobe Experience Cloud
 solution: Experience Cloud
-source-git-commit: fb41c2e26a4945a9d9f24fec7f4c68a35af2c428
+hide: true
+source-git-commit: 5243940cc97621257e6ce4f41bfe837d1bc5530c
 workflow-type: tm+mt
-source-wordcount: '14'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
