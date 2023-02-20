@@ -4,13 +4,14 @@ user-guide-description: Service de délivrabilité des Adobes
 breadcrumb-title: Service de délivrabilité des Adobes
 solution: Experience Cloud
 hide: true
-source-git-commit: 58d7982b28ec82c34076e52afd0a0edfc9bfd90f
+source-git-commit: 3eb95ed738d053cc1250e66a28a00f26506f530d
 workflow-type: tm+mt
-source-wordcount: '14'
-ht-degree: 7%
+source-wordcount: '17'
+ht-degree: 5%
 
 ---
 
 # Service de délivrabilité des Adobes {#deliverability-server}
 
 * [Accueil](home.md)
+* [Liste de suppression globale](global-suppression-list.md)
