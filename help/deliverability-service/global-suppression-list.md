@@ -2,10 +2,11 @@
 title: Liste de suppression globale
 description: Découvrez la liste de suppression globale
 hide: true
-source-git-commit: a946cfb1027896f6e45aaf88d25ad7114d6b5ac6
+exl-id: 40aef987-52a3-470b-88ca-c716a116bdfc
+source-git-commit: b66e2525694c771ebb7ac5190b7259ef5658d81a
 workflow-type: tm+mt
 source-wordcount: '628'
-ht-degree: 52%
+ht-degree: 55%
 
 ---
 
@@ -69,6 +70,7 @@ Pour cela, cliquez sur le bouton **[!UICONTROL Ajouter un e-mail ou un domaine]*
    EMAIL,abc@somedomain.com,Comment
    DOMAIN,somedomain.com,Comment
    ```
+
    >[!CAUTION]
    >
    >Ne modifiez pas les noms des colonnes dans le modèle CSV.
@@ -91,7 +93,7 @@ Pour cela, cliquez sur le bouton **[!UICONTROL Ajouter un e-mail ou un domaine]*
 
 Cliquez sur le bouton **[!UICONTROL Chargements récents]** pour vérifier l’état des derniers fichiers CSV que vous avez téléchargés.
 
-Les statuts possibles sont les suivants :
+Les statuts possibles sont les suivants :
 
 * **[!UICONTROL En attente]** : le téléchargement du fichier est en cours de traitement.
 * **[!UICONTROL Erreur]** : le processus de téléchargement du fichier a échoué en raison d’un problème technique ou d’un format de fichier incorrect.
@@ -108,4 +110,3 @@ Pour supprimer une adresse de la liste de suppression globale, utilisez le **[!U
 >[!CAUTION]
 >
 >Les adresses ou les domaines automatiquement ajoutés par le fournisseur tiers Blackbox ne peuvent pas être supprimés par les consultants via l’interface. Cette opération peut uniquement être effectuée via un ticket de serveur principal.
-
