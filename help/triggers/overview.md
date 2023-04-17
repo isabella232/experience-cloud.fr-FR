@@ -4,20 +4,20 @@ description: Découvrir l’interface utilisateur des Triggers Adobe Experience 
 hide: true
 hidefromtoc: true
 source-git-commit: 9f1b3257e49c34d2909d457c098a2081a2fb69a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '271'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
 # Présentation de Triggers {#overview}
 
-Experience Cloud Triggers offre une solution complète pour identifier, définir et surveiller les comportements critiques des consommateurs. Grâce à ces déclencheurs, vous pouvez générer des communications inter-applications pour réengager les visiteurs, ce qui se traduit par une expérience utilisateur plus personnalisée et plus attrayante.
-Vous pouvez utiliser des triggers pour la personnalisation et les décisions en temps réel, par exemple :
+Experience Cloud Triggers offre une solution complète pour identifier, définir et surveiller les comportements critiques des consommateurs et consommatrices. Grâce à ces déclencheurs, vous pouvez générer des communications entre applications et redynamiser les interactions avec vos visiteurs et visiteuses, ce qui se traduit par une expérience utilisateur plus personnalisée et plus attrayante.
+Vous pouvez utiliser des déclencheurs pour la personnalisation et les décisions en temps réel. Par exemple :
 
-* Configurez des campagnes de remarketing rapide pour les abandons de panier ou les abandons de panier avec des produits supprimés, ce qui contribue à augmenter les conversions et les recettes.
-* Identifiez les formulaires et les demandes incomplets, ce qui vous permet de suivre les communications personnalisées pour encourager l&#39;achèvement des travaux et réduire les taux d&#39;abandon.
-* Surveillez toutes les actions ou séquences d’actions sur votre site dont vous souhaitez effectuer le suivi, en fournissant des informations précieuses sur le comportement des utilisateurs et en vous permettant d’optimiser l’expérience utilisateur en fonction de leurs actions.
+* Configurez des campagnes de re-marketing rapides pour les abandons de panier ou les abandons de panier avec des produits supprimés. Cela contribue à augmenter les conversions et les recettes.
+* Identifiez les formulaires et les demandes incomplets. Cela vous permettra d’effectuer un suivi par le biais de communications personnalisées, afin d’encourager l’achèvement des travaux et de réduire les taux d’abandon.
+* Surveillez toutes les actions ou séquences d’actions sur votre site dont vous souhaitez effectuer le suivi. Vous obtiendrez des insights précieux sur le comportement des utilisateurs et utilisatrices et vous pourrez optimiser l’expérience utilisateur en fonction de leurs actions.
 
 ## Types de Triggers
 
