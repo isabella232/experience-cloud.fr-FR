@@ -3,10 +3,11 @@ title: Créer et gérer les Triggers Experience Cloud
 description: Découvrir l’interface utilisateur des Triggers Adobe Experience Cloud
 hide: true
 hidefromtoc: true
-source-git-commit: ce0faf9fab45c931feb666ac0c77f5ab5c231746
-workflow-type: ht
-source-wordcount: '483'
-ht-degree: 100%
+exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
+source-git-commit: 743244e72cfe2dfb44a6c9adba699f90db1fe04d
+workflow-type: tm+mt
+source-wordcount: '484'
+ht-degree: 97%
 
 ---
 
@@ -18,7 +19,7 @@ ht-degree: 100%
 
 Créez un trigger et configurez les conditions correspondantes. Vous pouvez par exemple indiquer les critères des règles d’un trigger pendant une visite, comme des mesures telles que Abandon du panier ou des dimensions telles que le nom du produit. Lorsque les règles sont satisfaites, le trigger s’exécute.
 
-1. Dans Experience Cloud, sélectionnez le menu avancé, puis Triggers.
+1. Dans l’Experience Cloud, sélectionnez le menu de sélecteur de solution, puis **[!UICONTROL Triggers]**.
 
    ![](assets/triggers_7.png)
 
@@ -38,7 +39,7 @@ Créez un trigger et configurez les conditions correspondantes. Vous pouvez par 
 
 1. Sélectionnez la **[!UICONTROL suite de rapports]** Analytics utilisée pour ce déclencheur. Ce paramètre identifie les données de rapport à utiliser.
 
-   [En savoir plus sur la suite de rapports](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html?lang=fr).
+   [En savoir plus sur la suite de rapports](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html?lang=fr){target="_blank"}.
 
 1. Choisissez le **[!UICONTROL déclencheur après aucune action pour]** la période de validité.
 
