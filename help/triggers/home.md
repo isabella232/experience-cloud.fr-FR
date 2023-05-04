@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: aad9c013-6671-4e3b-adfc-fab79f2a3ef7
 source-git-commit: 7304dc2d08f78bd287fc0cae6e11021aa6ed1149
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 90%
 
 La nouvelle interface utilisateur d’Experience Cloud Triggers offre une expérience intuitive qui facilite la gestion des comportements des consommateurs et consommatrices ainsi que la personnalisation des expériences utilisateur.
 
-Vous pouvez utiliser Experience Cloud Triggers afin de connecter des données entre Adobe Campaign et Adobe Analytics à l’aide du pipeline. Le pipeline récupère les actions ou triggers des utilisateurs et utilisatrices de votre site web. Un abandon de panier est un exemple de déclencheur. Les déclencheurs sont traités dans Adobe Campaign pour envoyer des emails en temps quasi réel.
+Vous pouvez utiliser Experience Cloud Triggers afin de connecter des données entre Adobe Campaign et Adobe Analytics à l’aide du pipeline. Le pipeline récupère les actions ou triggers des utilisateurs et utilisatrices de votre site web. Un abandon de panier est un exemple de déclencheur. Les Triggers sont traités dans Adobe Campaign pour envoyer des e-mails en temps quasi réel.
 
 
 **Liens utiles :**
