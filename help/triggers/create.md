@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
 source-git-commit: 7304dc2d08f78bd287fc0cae6e11021aa6ed1149
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '484'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 97%
 
 Créez un trigger et configurez les conditions correspondantes. Vous pouvez par exemple indiquer les critères des règles d’un trigger pendant une visite, comme des mesures telles que Abandon du panier ou des dimensions telles que le nom du produit. Lorsque les règles sont satisfaites, le trigger s’exécute.
 
-1. Dans l’Experience Cloud, sélectionnez le menu de sélecteur de solution, puis **[!UICONTROL Triggers]**.
+1. Dans Experience Cloud, sélectionnez le menu de sélection des solutions, puis **[!UICONTROL Triggers]**.
 
    ![](assets/triggers_7.png)
 
@@ -48,7 +48,7 @@ Créez un trigger et configurez les conditions correspondantes. Vous pouvez par 
    Par exemple, les règles pour un trigger d’abandon de panier simple peuvent ressembler à celles-ci :
 
    * **[!UICONTROL La visite doit inclure]** : `Carts (metric) Is greater or equal to 1` pour cibler les visiteurs et visiteuses qui ont au moins un article dans leur panier.
-   * **[!UICONTROL La visite ne doit pas inclure]**: `Checkout (metric) Exists.` pour supprimer les visiteurs et visiteuses qui ont acheté les articles placés dans leur panier.
+   * **[!UICONTROL La visite ne doit pas inclure]** : `Checkout (metric) Exists.` pour supprimer les visiteurs et visiteuses qui ont acheté les articles placés dans leur panier.
 
    ![](assets/triggers_2.png)
 
