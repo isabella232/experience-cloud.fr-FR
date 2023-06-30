@@ -2,14 +2,18 @@
 title: Créer et gérer les Triggers Experience Cloud
 description: Découvrir l’interface utilisateur des Triggers Adobe Experience Cloud
 exl-id: aad9c013-6671-4e3b-adfc-fab79f2a3ef7
-source-git-commit: 3edbf7991e19d524ce5284a0cdd46676b9640062
+source-git-commit: 9cdff509e07f1e01b6c6a403288093998e5db152
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 100%
+source-wordcount: '152'
+ht-degree: 88%
 
 ---
 
 # Triggers Adobe Experience Cloud {#triggers-home}
+
+>[!AVAILABILITY]
+>
+>Triggers Adobe Experience Cloud la nouvelle interface utilisateur est progressivement déployée sur tous les clients. Pour plus d’informations, contactez votre représentant Adobe.
 
 La nouvelle interface utilisateur d’Experience Cloud Triggers offre une expérience intuitive qui facilite la gestion des comportements des consommateurs et consommatrices ainsi que la personnalisation des expériences utilisateur.
 
