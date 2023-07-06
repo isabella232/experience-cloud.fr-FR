@@ -3,9 +3,9 @@ title: Créer et gérer les Triggers Experience Cloud
 description: Découvrir l’interface utilisateur des Triggers Adobe Experience Cloud
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
 source-git-commit: 9cdff509e07f1e01b6c6a403288093998e5db152
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '505'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 95%
 
 >[!AVAILABILITY]
 >
->La nouvelle interface utilisateur d’Adobe Experience Cloud Triggers est progressivement déployée vers tous les clients. Pour plus d’informations, contactez votre représentant Adobe.
+>La nouvelle interface utilisateur d’Adobe Experience Cloud Triggers est progressivement disponible pour toute la clientèle. Pour en savoir plus, contactez votre représentant ou représentante Adobe.
 
 Créez un trigger et configurez les conditions correspondantes. Vous pouvez par exemple indiquer les critères des règles d’un trigger pendant une visite, comme des mesures telles que Abandon du panier ou des dimensions telles que le nom du produit. Lorsque les règles sont satisfaites, le trigger s’exécute.
 
@@ -29,11 +29,11 @@ Créez un trigger et configurez les conditions correspondantes. Vous pouvez par 
 
    Trois types de déclencheurs sont disponibles :
 
-   * **[!UICONTROL Abandon :]** vous pouvez créer un déclencheur qui s’exécute lorsqu’un visiteur ou une visiteuse consulte un produit mais ne l’ajoute pas au panier.
+   * **[!UICONTROL Abandon ]** : vous pouvez créer un déclencheur qui s’exécute lorsqu’un visiteur ou une visiteuse consulte un produit mais ne l’ajoute pas au panier.
 
-   * **[!UICONTROL Action :]** vous pouvez créer des déclencheurs, par exemple, pour qu’ils s’exécutent après une inscription à une newsletter, un abonnement par e-mail ou une demande de cartes de crédit (confirmations). Si vous êtes un détaillant, vous pouvez créer un trigger pour un visiteur qui s’inscrit à un programme de fidélité. Dans le secteur des médias et du divertissement, créez des triggers pour les visiteurs qui regardent un programme en particulier et qui doivent répondre à une enquête.
+   * **[!UICONTROL Action ]** : vous pouvez créer des déclencheurs, par exemple, pour qu’ils s’exécutent après une inscription à une newsletter, un abonnement par e-mail ou une demande de cartes de crédit (confirmations). Si vous êtes un détaillant, vous pouvez créer un trigger pour un visiteur qui s’inscrit à un programme de fidélité. Dans le secteur des médias et du divertissement, créez des triggers pour les visiteurs qui regardent un programme en particulier et qui doivent répondre à une enquête.
 
-   * **[!UICONTROL Début et fin de session]** : créez un déclencheur pour les événements de début et de fin de session.
+   * **[!UICONTROL Début et fin de session]** : créez un déclencheur pour les événements de début et de fin de session.
 
    ![](assets/triggers_1.png)
 
