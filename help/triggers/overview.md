@@ -3,7 +3,7 @@ title: Créer et gérer les Triggers Experience Cloud
 description: Découvrir l’interface utilisateur des Triggers Adobe Experience Cloud
 exl-id: 2c8f58aa-cade-46c1-beaa-cfe7720e4e90
 source-git-commit: 521c4920728b7be30a64af6797b9477695db77e8
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 100%
 
